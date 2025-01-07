@@ -1,4 +1,4 @@
-# The-Psychological-Impact-of-Social-Media-on-Mental-Health-
+# The-Psychological-Impact-of-Social-Media-on-Mental-Health:
 
 This project investigates the relationship between social media usage and mental health outcomes, focusing on anxiety, depression, self-esteem, and social comparison. By analyzing a custom database tracking social media usage patterns and mental health indicators of six participants, we explore how different types of content (positive, negative, or neutral) impact mental well-being.
 
